@@ -16,4 +16,4 @@ public class task1409 {
 
         System.out.println(HarryL + " " + LarryL);
     }
-}
+} 
