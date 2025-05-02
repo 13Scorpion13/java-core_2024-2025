@@ -13,7 +13,7 @@ public class Example4 {
 
         System.out.println("Исходные числа:");
         for (int i = 0; i < 10; i++) {
-            int num = random.nextInt(100); // чтобы можно было проверить в голове)))
+            int num = random.nextInt(100); // чтобы можно было проверить в голове))
             numbers.add(num);
             System.out.print(num + " ");
         }
@@ -23,7 +23,6 @@ public class Example4 {
         System.out.println("\n\nКвадраты чисел:");
         squaredNumbers.forEach(n -> System.out.print(n + " "));
     }
-
     public static List<Integer> squareNumbers(List<Integer> numbers) {
         return numbers.stream()
                 .map(x -> x * x)
