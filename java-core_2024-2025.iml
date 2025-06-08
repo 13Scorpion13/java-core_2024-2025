@@ -7,5 +7,21 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="json_simple" level="project" />
+    <orderEntry type="library" name="jsoup" level="project" />
+    <orderEntry type="library" name="poi-5.2.5" level="project" />
+    <orderEntry type="library" name="poi-ooxml-5.2.5" level="project" />
+    <orderEntry type="library" name="commons-io-2.11.0" level="project" />
+    <orderEntry type="library" name="xmlbeans-5.1.1" level="project" />
+    <orderEntry type="library" name="commons-collections4-4.4" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.0.0/annotations-24.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
